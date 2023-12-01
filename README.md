@@ -1,4 +1,4 @@
-# Spam & Ham
+# Spam or Ham?
 
 Spam & Ham was a project I did in Data 100 - Principles and Techniques of Data Science.
 
